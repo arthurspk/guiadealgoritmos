@@ -2,57 +2,86 @@
   <a href="https://github.com/arthurspk/guiadevbrasil">
     <img src="./images/guia.png" alt="Guia Dev Brasil" width="160" height="160">
   </a>
-  <h1 align="center">Guia de Algoritmos e Estruturas de Dados</h1>
+  <h1 align="center">Guia de Algoritmos & Estruturas de Dados</h1>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/arthurspk/guiadealgoritmos?style=flat-square" alt="Stars">
-  <img src="https://img.shields.io/github/forks/arthurspk/guiadealgoritmos?style=flat-square" alt="Forks">
-  <img src="https://img.shields.io/github/last-commit/arthurspk/guiadealgoritmos?style=flat-square" alt="Último commit">
-  <img src="https://img.shields.io/github/license/arthurspk/guiadealgoritmos?style=flat-square" alt="Licença">
-  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs Welcome">
-</p>
+## :dart: O guia para alavancar a sua carreira
 
-> Guia completo de Algoritmos e Estruturas de Dados: trilhas, cursos, livros, canais, ferramentas e comunidades
-> para você entrar e evoluir na área. Última revisão: setembro/2026.
+> Algoritmos e estruturas de dados são a parte da programação que não muda quando o framework muda: a mesma busca binária, o mesmo `HashMap` e o mesmo Dijkstra estão por trás do banco de dados, do GPS, do compilador e do feed da rede social. É também o critério central das entrevistas técnicas de big techs — o que separa código que "funciona" de código que aguenta um milhão de usuários.
+>
+> Este guia reúne trilhas, documentação, cursos, livros, canais, ferramentas, projetos práticos, programação competitiva e comunidades para quem está começando do zero e para quem já programa mas nunca estudou o tema de forma estruturada. Os recursos em português e gratuitos vêm primeiro em cada seção, e todo link foi verificado na data da última revisão.
 
-## 🌍 Idiomas
-🇧🇷 Português (você está aqui) · [🇺🇸 English](./translations/README.en.md)
+<sub> <strong>Siga nas redes sociais para acompanhar mais conteúdos: </strong> <br>
+[<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/arthurspk)
+[<img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/seixasqlc/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arthurspk/)
+[<img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/manotoquinho)
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NbMQUPjHz7)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/guiadevbrasil/)
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g)
+</sub>
 
-## 📚 Sumário
-- [🎯 Sobre este guia](#-sobre-este-guia)
-- [🗺️ Roadmap](#-roadmap)
-- [🚀 Por onde começar](#-por-onde-começar)
-- [🎓 Cursos gratuitos](#-cursos-gratuitos)
-- [💰 Cursos pagos](#-cursos-pagos)
-- [📖 Documentação e apostilas](#-documentação-e-apostilas)
-- [📚 Livros](#-livros)
-- [🎥 Canais no YouTube](#-canais-no-youtube)
-- [🎙️ Podcasts](#-podcasts)
-- [📰 Sites, blogs e newsletters](#-sites-blogs-e-newsletters)
-- [🛠️ Ferramentas](#-ferramentas)
-- [🧪 Projetos práticos e desafios](#-projetos-práticos-e-desafios)
-- [🏆 Programação competitiva](#-programação-competitiva)
-- [👁️ Visualizadores](#-visualizadores)
-- [🤖 IA na prática](#-ia-na-prática)
-- [📜 Certificações](#-certificações)
-- [💼 Carreira e vagas](#-carreira-e-vagas)
-- [👥 Comunidades](#-comunidades)
-- [🚨 Como contribuir](#-como-contribuir)
-- [📄 Licença](#-licença)
-- [💙 Apoie o projeto](#-apoie-o-projeto)
+## ⚠️ Aviso importante
 
-## 🎯 Sobre este guia
-Algoritmos são receitas precisas para resolver problemas; estruturas de dados são as formas de organizar informação para que essas receitas sejam rápidas. Juntos, eles são a parte da programação que **não muda quando o framework muda**: o mesmo `HashMap`, a mesma busca binária e o mesmo Dijkstra estão por trás do banco de dados, do GPS, do compilador e do feed da rede social. É também o assunto central das entrevistas técnicas de big techs e o que separa "faz funcionar" de "funciona com um milhão de usuários".
+> Antes de tudo você pode me ajudar e colaborar, deu bastante trabalho fazer esse repositório e organizar para fazer seu estudo ou trabalho melhor, portanto você pode me ajudar das seguintes maneiras:
 
-Este guia é para quem está começando (sabe o básico de alguma linguagem) e para quem já programa mas nunca estudou o tema de forma estruturada. Os recursos em **português e gratuitos** vêm primeiro em cada seção; 💰 marca conteúdo pago, 🇺🇸 conteúdo em inglês e 🆕 material publicado ou atualizado entre 2024 e 2026. Todo link foi verificado na data da última revisão.
+- Me siga no [Github](https://github.com/arthurspk)
+- Acesse as redes sociais do [Guia Dev Brasil](https://linktr.ee/guiadevbrasil)
+- Mande feedbacks no [LinkedIn](https://www.linkedin.com/in/arthurspk/)
+
+## 💡 Nossa proposta
+
+> A proposta deste guia é dar uma ideia sobre o atual panorama e guiá-lo se você estiver confuso sobre qual será o seu próximo aprendizado, sem influenciar você a seguir os 'hypes' e 'trends' do momento. Acreditamos que com um maior conhecimento das diferentes estruturas e soluções disponíveis poderá escolher a ferramenta que melhor se aplica às suas demandas. E lembre-se, 'hypes' e 'trends' nem sempre são as melhores opções.
+
+## :beginner: Para quem está começando agora
+
+> Não se assuste com a quantidade de conteúdo apresentado neste guia. Acredito que quem está começando pode usá-lo não como um objetivo, mas como um apoio para os estudos. <b>Neste momento, dê enfoque no que te dá produtividade e o restante marque como <i>Ver depois</i></b>. Ao passo que seu conhecimento se torna mais amplo, a tendência é este guia fazer mais sentido e ficar fácil de ser assimilado. Bons estudos e entre em contato sempre que quiser! :punch:
+
+## 🚨 Colabore
+
+- Abra Pull Requests com atualizações
+- Discuta ideias em Issues
+- Compartilhe o repositório com a sua comunidade
+
+## 🌍 Tradução
+
+> Se você deseja acompanhar esse repositório em outro idioma que não seja o Português Brasileiro, você pode optar pelas escolhas de idiomas abaixo, você também pode colaborar com a tradução para outros idiomas e a correções de possíveis erros ortográficos, a comunidade agradece.
+
+<img src = "https://i.imgur.com/lpP9V2p.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>English — </b> [Click Here](https://github.com/arthurspk/guiadealgoritmos)<br>
+<img src = "https://i.imgur.com/GprSvJe.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Spanish — </b> [Click Here](https://github.com/arthurspk/guiadealgoritmos)<br>
+<img src = "https://i.imgur.com/4DX1q8l.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Chinese — </b> [Click Here](https://github.com/arthurspk/guiadealgoritmos)<br>
+<img src = "https://i.imgur.com/6MnAOMg.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Hindi — </b> [Click Here](https://github.com/arthurspk/guiadealgoritmos)<br>
+<img src = "https://i.imgur.com/8t4zBFd.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Arabic — </b> [Click Here](https://github.com/arthurspk/guiadealgoritmos)<br>
+<img src = "https://i.imgur.com/iOdzTmD.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>French — </b> [Click Here](https://github.com/arthurspk/guiadealgoritmos)<br>
+<img src = "https://i.imgur.com/PILSgAO.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Italian — </b> [Click Here](https://github.com/arthurspk/guiadealgoritmos)<br>
+<img src = "https://i.imgur.com/0lZOSiy.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Korean — </b> [Click Here](https://github.com/arthurspk/guiadealgoritmos)<br>
+<img src = "https://i.imgur.com/3S5pFlQ.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Russian — </b> [Click Here](https://github.com/arthurspk/guiadealgoritmos)<br>
+<img src = "https://i.imgur.com/i6DQjZa.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>German — </b> [Click Here](https://github.com/arthurspk/guiadealgoritmos)<br>
+<img src = "https://i.imgur.com/wWRZMNK.png" alt="Guia Extenso de Programação" width="16" height="15">・<b>Japanese — </b> [Click Here](https://github.com/arthurspk/guiadealgoritmos)<br>
+
+## 📚 ÍNDICE
+
+[🗺️ Roadmap](#-roadmap) <br>
+[📖 Documentação oficial](#-documentação-oficial) <br>
+[🔤 Sites e cursos para aprender Algoritmos e Estruturas de Dados](#-sites-e-cursos-para-aprender-algoritmos-e-estruturas-de-dados) <br>
+[📚 Livros](#-livros) <br>
+[🎥 Canais no Youtube](#-canais-no-youtube) <br>
+[🛠️ Ferramentas](#-ferramentas) <br>
+[🧪 Projetos práticos e desafios](#-projetos-práticos-e-desafios) <br>
+[🏆 Programação competitiva](#-programação-competitiva) <br>
+[👁️ Visualizadores](#-visualizadores) <br>
+[🤖 IA na prática](#-ia-na-prática) <br>
+[🎓 Certificações](#-certificações) <br>
+[💼 Carreira e vagas](#-carreira-e-vagas) <br>
+[👥 Comunidades](#-comunidades) <br>
 
 ## 🗺️ Roadmap
-- [roadmap.sh — Data Structures and Algorithms](https://roadmap.sh/datastructures-and-algorithms) — Roadmap visual e interativo da comunidade: complexidade, estruturas, ordenação, grafos e DP, com links por tópico. 🇺🇸
-- [roadmap.sh — Computer Science](https://roadmap.sh/computer-science) — Currículo de Ciência da Computação para autodidatas; algoritmos e estruturas de dados são o eixo central. 🇺🇸
+
+- [roadmap.sh — Data Structures and Algorithms](https://roadmap.sh/datastructures-and-algorithms) — Roadmap visual e interativo da comunidade: complexidade, estruturas, ordenação, grafos e DP, com links por tópico.
+- [roadmap.sh — Computer Science](https://roadmap.sh/computer-science) — Currículo de Ciência da Computação para autodidatas; algoritmos e estruturas de dados são o eixo central.
 - [Coding Interview University (tradução PT-BR)](https://github.com/jwasham/coding-interview-university/blob/main/translations/README-ptbr.md) — Plano de estudos completo de CS que levou o autor a uma vaga na Amazon: ordem dos tópicos, vídeos e leituras, traduzido para português.
-- [NeetCode Roadmap](https://neetcode.io/roadmap) — Árvore de dependências entre tópicos (arrays → dois ponteiros → ... → DP) com problemas selecionados para cada nó. 🇺🇸
-- [OSSU — Computer Science](https://github.com/ossu/computer-science) — Graduação completa e gratuita em CS com cursos abertos; a trilha de algoritmos usa Princeton e MIT. 🇺🇸
+- [NeetCode Roadmap](https://neetcode.io/roadmap) — Árvore de dependências entre tópicos (arrays → dois ponteiros → ... → DP) com problemas selecionados para cada nó.
+- [OSSU — Computer Science](https://github.com/ossu/computer-science) — Graduação completa e gratuita em CS com cursos abertos; a trilha de algoritmos usa Princeton e MIT.
 - [kelvins/algorithms-and-data-structures](https://github.com/kelvins/algorithms-and-data-structures) — Repositório brasileiro com algoritmos e estruturas implementados em várias linguagens, organizados por tema — bom para ver o mesmo algoritmo em C, Python, Java e Go.
 
 **Trilha resumida** (siga na ordem; cada etapa tem recursos nas seções abaixo):
@@ -67,7 +96,8 @@ Este guia é para quem está começando (sabe o básico de alguma linguagem) e p
 8. **Técnicas de projeto** — recursão e backtracking, dividir e conquistar, guloso e programação dinâmica.
 9. **Avançado (opcional)** — árvores de segmentos e Fenwick, algoritmos de strings (KMP, Z, sufixos), fluxo em redes, NP-completude.
 
-## 🚀 Por onde começar
+**Por onde começar, na prática:**
+
 1. **Aprenda a programar primeiro.** Se ainda não sabe, faça o [Curso de Algoritmos e Lógica de Programação](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) do Curso em Vídeo ou o [Introdução à Ciência da Computação com Python (USP)](https://www.coursera.org/learn/ciencia-computacao-python-conceitos).
 2. **Entenda Big-O em uma tarde:** leia [Notação Big O explicada com exemplos](https://www.freecodecamp.org/portuguese/news/notacao-big-o-explicada-com-exemplos/) e deixe o [Big-O Cheat Sheet](https://www.bigocheatsheet.com/) nos favoritos.
 3. **Leia um livro leve:** [Entendendo Algoritmos](https://novatec.com.br/livros/entendendo-algoritmos-2ed/) (ilustrado, em português) é o melhor primeiro livro da área.
@@ -97,8 +127,37 @@ print(busca_binaria([2, 5, 8, 12, 16, 23, 38, 56, 72, 91], 23))  # 5
 
 Numa lista de 1 milhão de itens ordenados, a busca linear faz até 1.000.000 comparações; a binária faz no máximo 20. Essa diferença é o motivo de estudar este guia.
 
-## 🎓 Cursos gratuitos
-### Em português
+## 📖 Documentação oficial
+
+- [Projeto de Algoritmos em linguagem C (Paulo Feofiloff, IME-USP)](https://www.ime.usp.br/~pf/algoritmos/) — Apostila clássica e gratuita do IME-USP: recursão, busca, ordenação, listas, árvores e grafos em C, com exercícios.
+- [Curso de Análise de Algoritmos (Paulo Feofiloff, IME-USP)](https://www.ime.usp.br/~pf/analise_de_algoritmos/) — Notas de aula em português sobre notação assintótica, recorrências, ordenação ótima e programação dinâmica.
+- [Curso de Estruturas de Dados (Feofiloff, baseado em Sedgewick e Wayne)](https://www.ime.usp.br/~pf/estruturas-de-dados/) — Apostila em português que acompanha o livro *Algorithms* de Sedgewick e Wayne, com implementações em Java.
+- [Linguagem C Descomplicada — índice de Estrutura de Dados](https://programacaodescomplicada.wordpress.com/indice/estrutura-de-dados/) — Índice escrito das aulas do Prof. André Backes, com o código de cada estrutura.
+- [Material de Programação Competitiva (UnBalloon — UnB)](https://github.com/UnBalloon/programacao-competitiva) — Tutoriais em português do grupo da UnB sobre as técnicas e estruturas usadas na Maratona.
+- [Livreto FACOMpetindo (UFMS)](https://facompetindo.gitbook.io/facompetindo) — Guia introdutório em português para competições, com foco na OBI, em C++ e Python.
+- [NOIC — Materiais de Informática](https://noic.com.br/materiais-informatica/) — Aulas escritas em português para a OBI, organizadas por nível, mantidas por ex-olímpicos.
+- [Algorithms for Competitive Programming (cp-algorithms)](https://cp-algorithms.com/) — A referência técnica de programação competitiva: cada algoritmo com prova, código e problemas.
+- [Algorithms, 4th Edition — booksite (Sedgewick e Wayne)](https://algs4.cs.princeton.edu/home/) — Site do livro de Princeton com todo o código Java, resumos e exercícios de cada capítulo, gratuito.
+- [DSA Tutorial (GeeksforGeeks)](https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/) — A enciclopédia de DSA: artigo para praticamente todo algoritmo, com código em várias linguagens.
+- [Learn DSA (Programiz)](https://www.programiz.com/dsa) — Tutoriais curtos e visuais, ótimos para uma primeira passada por cada estrutura.
+- [DSA Tutorial (W3Schools)](https://www.w3schools.com/dsa/) — Tutorial passo a passo com simulações no navegador e exercícios.
+- [Big-O Cheat Sheet](https://www.bigocheatsheet.com/) — Tabela de complexidade de tempo e espaço das principais estruturas e algoritmos de ordenação.
+- [Study cheatsheets de algoritmos (Tech Interview Handbook)](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/) — Resumo por tópico do que cai em entrevista: pegadinhas, técnicas e problemas essenciais.
+- [Meus cursos gratuitos favoritos para aprender estruturas de dados e algoritmos a fundo (freeCodeCamp PT)](https://www.freecodecamp.org/portuguese/news/meus-cursos-gratuitos-favoritos-para-aprender-estruturas-de-dados-e-algoritmos-a-fundo/) — Artigo em português comparando os melhores cursos abertos de DSA.
+- [Notação Big O explicada com exemplos (freeCodeCamp PT)](https://www.freecodecamp.org/portuguese/news/notacao-big-o-explicada-com-exemplos/) — O(1), O(n), O(log n) e O(n²) com exemplos de código, em português.
+- [freeCodeCamp PT — tag Algoritmos](https://www.freecodecamp.org/portuguese/news/tag/algoritmos/) — Todos os artigos traduzidos do freeCodeCamp sobre algoritmos.
+- [O que são estruturas de dados? (Alura)](https://www.alura.com.br/artigos/estruturas-de-dados-introducao) — Introdução em português a estruturas e algoritmos, com exemplos do dia a dia.
+- [NOIC — Informática](https://noic.com.br/informatica/) — Notícias, materiais e simulados para a Olimpíada Brasileira de Informática.
+- [Code Marathon — Como estudar para a Maratona de Programação](https://www.codemarathon.com.br/conteudos/introducao/como-estudar-para-maratona-de-programacao) — Site brasileiro com trilha de estudo e conteúdos para a Maratona SBC.
+- [interviewing.io — Blog](https://interviewing.io/blog) — Dados reais de milhares de entrevistas técnicas: o que funciona e o que não funciona.
+- [Hello Interview — Data Structures and Algorithms](https://www.hellointerview.com/learn/code) — Guia de DSA para entrevistas escrito por ex-entrevistadores de Meta e Amazon.
+- [DEV Community — tag #algorithms](https://dev.to/t/algorithms) — Artigos da comunidade sobre algoritmos, muitos em português.
+- [Lista de algoritmos (Wikipedia)](https://en.wikipedia.org/wiki/List_of_algorithms) — Catálogo enciclopédico por área — para descobrir que o algoritmo que você precisa já existe.
+
+## 🔤 Sites e cursos para aprender Algoritmos e Estruturas de Dados
+
+> Cursos para aprender Algoritmos e Estruturas de Dados em Português
+
 - [Curso de Algoritmos e Lógica de Programação (Curso em Vídeo)](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV) — Curso do Gustavo Guanabara para quem nunca programou: variáveis, condições, repetições e vetores em português claro.
 - [UNIVESP — Estrutura de Dados (Engenharia de Computação)](https://www.youtube.com/playlist?list=PLxI8Can9yAHf8k8LrUePyj0y3lLpigGcl) — Disciplina completa da universidade pública paulista no YouTube: listas, pilhas, filas, árvores e grafos.
 - [UNICAMP — MC202 Estruturas de Dados (aulas gravadas)](https://www.youtube.com/playlist?list=PL5TPkym335qzgzl0jW6Xf4XITmCofzOCy) — Gravações das aulas de MC202 do Instituto de Computação da UNICAMP reunidas em playlist.
@@ -117,63 +176,49 @@ Numa lista de 1 milhão de itens ordenados, a busca linear faz até 1.000.000 co
 - [Neps Academy](https://neps.academy/br) — Plataforma brasileira gratuita com trilhas de algoritmos, estruturas de dados e programação competitiva, com juiz online integrado.
 - [Introdução à Programação Competitiva (Neps Academy)](https://neps.academy/br/course/introducao-a-programacao-competitiva) — Curso de entrada da Neps: como funcionam os juízes online, leitura de entrada, complexidade e primeiros problemas.
 
-### Em inglês
-- [MIT 6.006 — Introduction to Algorithms (OCW, 2020)](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) — O curso de algoritmos mais famoso do mundo, com vídeos, notas, problemas e provas resolvidas. 🇺🇸
-- [MIT 6.006 — playlist das aulas no YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY) — As 32 aulas de 6.006 (2020) no canal oficial do MIT OpenCourseWare. 🇺🇸
-- [MIT 6.046J — Design and Analysis of Algorithms (OCW)](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/) — Sequência de 6.006: dividir e conquistar, DP avançada, fluxo em redes, NP-completude e algoritmos aproximados. 🇺🇸
-- [MIT 6.042J — Mathematics for Computer Science (OCW)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/) — A matemática discreta por trás dos algoritmos: provas, indução, grafos, contagem e probabilidade. 🇺🇸
-- [Algorithms, Part I (Princeton — Coursera)](https://www.coursera.org/learn/algorithms-part1) — Curso de Sedgewick e Wayne: union-find, ordenação, árvores balanceadas e hashing em Java; gratuito para assistir. 🇺🇸
-- [Algorithms, Part II (Princeton — Coursera)](https://www.coursera.org/learn/algorithms-part2) — Continuação: grafos, caminhos mínimos, fluxo máximo, strings e compressão. 🇺🇸
-- [Algorithms Specialization (Stanford — Coursera)](https://www.coursera.org/specializations/algorithms) — Quatro cursos de Tim Roughgarden com foco em análise e projeto; assistir é gratuito, certificado é pago. 🇺🇸
-- [Data Structures and Algorithms Specialization (UC San Diego — Coursera)](https://www.coursera.org/specializations/data-structures-algorithms) — Especialização prática com juiz automático em várias linguagens, do básico a strings e grafos avançados. 🇺🇸
-- [Khan Academy — Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) — Introdução suave (com Dartmouth) a busca binária, ordenação, recursão e grafos, com exercícios interativos. 🇺🇸
-- [CS50x 2026 (Harvard)](https://cs50.harvard.edu/x/) — Introdução à Ciência da Computação de Harvard; as semanas de C, algoritmos e estruturas de dados são a base perfeita. 🆕 🇺🇸
-- [Data Structures Easy to Advanced (William Fiset — freeCodeCamp)](https://www.youtube.com/watch?v=RBSGKlAvoiM) — 8 horas de um engenheiro do Google implementando cada estrutura, com análise de complexidade. 🇺🇸
-- [Algorithms and Data Structures Tutorial — Full Course for Beginners (freeCodeCamp)](https://www.youtube.com/watch?v=8hly31xKli0) — Curso de 5 horas para iniciantes, em Python, cobrindo busca, ordenação, listas, árvores e grafos. 🇺🇸
-- [Codeforces EDU (ITMO Academy)](https://codeforces.com/edu/courses) — Cursos gratuitos em vídeo com problemas: busca binária, dois ponteiros, árvores de segmentos, sufixos e mais. 🇺🇸
-- [USACO Guide](https://usaco.guide/) — Trilha gratuita e completa de programação competitiva (Bronze → Platinum) com problemas para cada módulo. 🇺🇸
-- [Intro to Algorithms (Udacity)](https://www.udacity.com/course/intro-to-algorithms--cs215) — Curso gratuito que usa redes sociais como fio condutor para ensinar grafos e análise de algoritmos. 🇺🇸
+> Cursos para aprender Algoritmos e Estruturas de Dados em Inglês
 
-## 💰 Cursos pagos
-- [Learn Data Structures and Algorithms with Python (Codecademy)](https://www.codecademy.com/learn/learn-data-structures-and-algorithms-with-python) — Trilha interativa no navegador, com certificado no plano Pro. 💰 🇺🇸
-- [Grokking the Coding Interview Patterns (Educative)](https://www.educative.io/courses/grokking-coding-interview) — Ensina os ~20 padrões que resolvem a maioria das questões de entrevista (sliding window, two pointers, etc.). 🆕 💰 🇺🇸
-- [AlgoExpert](https://www.algoexpert.io/) — 160+ questões com vídeo-explicações e ambiente de código, voltado a entrevistas. 💰 🇺🇸
-- [NeetCode Courses (Pro)](https://neetcode.io/courses) — Cursos de algoritmos, DP avançada e system design do criador do NeetCode 150. 💰 🇺🇸
-- [Data Structures and Algorithms Nanodegree (Udacity)](https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256) — Programa com projetos revisados por mentores, em Python. 💰 🇺🇸
-
-## 📖 Documentação e apostilas
-- [Projeto de Algoritmos em linguagem C (Paulo Feofiloff, IME-USP)](https://www.ime.usp.br/~pf/algoritmos/) — Apostila clássica e gratuita do IME-USP: recursão, busca, ordenação, listas, árvores e grafos em C, com exercícios.
-- [Curso de Análise de Algoritmos (Paulo Feofiloff, IME-USP)](https://www.ime.usp.br/~pf/analise_de_algoritmos/) — Notas de aula em português sobre notação assintótica, recorrências, ordenação ótima e programação dinâmica.
-- [Curso de Estruturas de Dados (Feofiloff, baseado em Sedgewick e Wayne)](https://www.ime.usp.br/~pf/estruturas-de-dados/) — Apostila em português que acompanha o livro *Algorithms* de Sedgewick e Wayne, com implementações em Java.
-- [Linguagem C Descomplicada — índice de Estrutura de Dados](https://programacaodescomplicada.wordpress.com/indice/estrutura-de-dados/) — Índice escrito das aulas do Prof. André Backes, com o código de cada estrutura.
-- [Material de Programação Competitiva (UnBalloon — UnB)](https://github.com/UnBalloon/programacao-competitiva) — Tutoriais em português do grupo da UnB sobre as técnicas e estruturas usadas na Maratona.
-- [Livreto FACOMpetindo (UFMS)](https://facompetindo.gitbook.io/facompetindo) — Guia introdutório em português para competições, com foco na OBI, em C++ e Python.
-- [NOIC — Materiais de Informática](https://noic.com.br/materiais-informatica/) — Aulas escritas em português para a OBI, organizadas por nível, mantidas por ex-olímpicos.
-- [Algorithms for Competitive Programming (cp-algorithms)](https://cp-algorithms.com/) — A referência técnica de programação competitiva: cada algoritmo com prova, código e problemas. 🇺🇸
-- [Algorithms, 4th Edition — booksite (Sedgewick e Wayne)](https://algs4.cs.princeton.edu/home/) — Site do livro de Princeton com todo o código Java, resumos e exercícios de cada capítulo, gratuito. 🇺🇸
-- [DSA Tutorial (GeeksforGeeks)](https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/) — A enciclopédia de DSA: artigo para praticamente todo algoritmo, com código em várias linguagens. 🇺🇸
-- [Learn DSA (Programiz)](https://www.programiz.com/dsa) — Tutoriais curtos e visuais, ótimos para uma primeira passada por cada estrutura. 🇺🇸
-- [DSA Tutorial (W3Schools)](https://www.w3schools.com/dsa/) — Tutorial passo a passo com simulações no navegador e exercícios. 🇺🇸
-- [Big-O Cheat Sheet](https://www.bigocheatsheet.com/) — Tabela de complexidade de tempo e espaço das principais estruturas e algoritmos de ordenação. 🇺🇸
-- [Study cheatsheets de algoritmos (Tech Interview Handbook)](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/) — Resumo por tópico do que cai em entrevista: pegadinhas, técnicas e problemas essenciais. 🇺🇸
+- [MIT 6.006 — Introduction to Algorithms (OCW, 2020)](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) — O curso de algoritmos mais famoso do mundo, com vídeos, notas, problemas e provas resolvidas.
+- [MIT 6.006 — playlist das aulas no YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY) — As 32 aulas de 6.006 (2020) no canal oficial do MIT OpenCourseWare.
+- [MIT 6.046J — Design and Analysis of Algorithms (OCW)](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/) — Sequência de 6.006: dividir e conquistar, DP avançada, fluxo em redes, NP-completude e algoritmos aproximados.
+- [MIT 6.042J — Mathematics for Computer Science (OCW)](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/) — A matemática discreta por trás dos algoritmos: provas, indução, grafos, contagem e probabilidade.
+- [Algorithms, Part I (Princeton — Coursera)](https://www.coursera.org/learn/algorithms-part1) — Curso de Sedgewick e Wayne: union-find, ordenação, árvores balanceadas e hashing em Java; gratuito para assistir.
+- [Algorithms, Part II (Princeton — Coursera)](https://www.coursera.org/learn/algorithms-part2) — Continuação: grafos, caminhos mínimos, fluxo máximo, strings e compressão.
+- [Algorithms Specialization (Stanford — Coursera)](https://www.coursera.org/specializations/algorithms) — Quatro cursos de Tim Roughgarden com foco em análise e projeto; assistir é gratuito, certificado é pago.
+- [Data Structures and Algorithms Specialization (UC San Diego — Coursera)](https://www.coursera.org/specializations/data-structures-algorithms) — Especialização prática com juiz automático em várias linguagens, do básico a strings e grafos avançados.
+- [Khan Academy — Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) — Introdução suave (com Dartmouth) a busca binária, ordenação, recursão e grafos, com exercícios interativos.
+- [CS50x 2026 (Harvard)](https://cs50.harvard.edu/x/) — Introdução à Ciência da Computação de Harvard; as semanas de C, algoritmos e estruturas de dados são a base perfeita.
+- [Data Structures Easy to Advanced (William Fiset — freeCodeCamp)](https://www.youtube.com/watch?v=RBSGKlAvoiM) — 8 horas de um engenheiro do Google implementando cada estrutura, com análise de complexidade.
+- [Algorithms and Data Structures Tutorial — Full Course for Beginners (freeCodeCamp)](https://www.youtube.com/watch?v=8hly31xKli0) — Curso de 5 horas para iniciantes, em Python, cobrindo busca, ordenação, listas, árvores e grafos.
+- [Codeforces EDU (ITMO Academy)](https://codeforces.com/edu/courses) — Cursos gratuitos em vídeo com problemas: busca binária, dois ponteiros, árvores de segmentos, sufixos e mais.
+- [USACO Guide](https://usaco.guide/) — Trilha gratuita e completa de programação competitiva (Bronze → Platinum) com problemas para cada módulo.
+- [Intro to Algorithms (Udacity)](https://www.udacity.com/course/intro-to-algorithms--cs215) — Curso gratuito que usa redes sociais como fio condutor para ensinar grafos e análise de algoritmos.
+- [Learn Data Structures and Algorithms with Python (Codecademy)](https://www.codecademy.com/learn/learn-data-structures-and-algorithms-with-python) — Trilha interativa no navegador; curso pago, com certificado no plano Pro.
+- [Grokking the Coding Interview Patterns (Educative)](https://www.educative.io/courses/grokking-coding-interview) — Curso pago da Educative que ensina os ~20 padrões que resolvem a maioria das questões de entrevista (sliding window, two pointers, etc.).
+- [AlgoExpert](https://www.algoexpert.io/) — Curso pago com 160+ questões com vídeo-explicações e ambiente de código, voltado a entrevistas.
+- [NeetCode Courses (Pro)](https://neetcode.io/courses) — Cursos pagos de algoritmos, DP avançada e system design do criador do NeetCode 150.
+- [Data Structures and Algorithms Nanodegree (Udacity)](https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256) — Programa pago com projetos revisados por mentores, em Python.
 
 ## 📚 Livros
-- [Entendendo Algoritmos — 2ª edição (Aditya Bhargava, Novatec)](https://novatec.com.br/livros/entendendo-algoritmos-2ed/) — O livro ilustrado mais recomendado para iniciantes, em português; nova edição com árvores, NP-completude e Python 3. 🆕
-- [Algoritmos: Teoria e Prática — 4ª edição (Cormen, Leiserson, Rivest e Stein, GEN)](https://www.grupogen.com.br/livro-algoritmos-thomas-cormen-9788595159907) — Tradução oficial do CLRS, a bíblia da área; edição de 2024 com capítulos novos sobre grafos bipartidos e machine learning. 🆕
+
+- [Entendendo Algoritmos — 2ª edição (Aditya Bhargava, Novatec)](https://novatec.com.br/livros/entendendo-algoritmos-2ed/) — O livro ilustrado mais recomendado para iniciantes, em português; edição com árvores, NP-completude e Python 3.
+- [Algoritmos: Teoria e Prática — 4ª edição (Cormen, Leiserson, Rivest e Stein, GEN)](https://www.grupogen.com.br/livro-algoritmos-thomas-cormen-9788595159907) — Tradução oficial do CLRS, a bíblia da área; edição com capítulos sobre grafos bipartidos e machine learning.
 - [Estruturas de Dados e Algoritmos com JavaScript — 2ª edição (Loiane Groner, Novatec)](https://novatec.com.br/livros/estruturas-de-dados-algoritmos-em-javascript-2ed/) — Cada estrutura implementada em JavaScript moderno, por uma autora brasileira.
 - [Lógica de Programação e Algoritmos com JavaScript — 2ª edição (Edécio Iepsen, Novatec)](https://novatec.com.br/livros/logica-programacao-algoritmos-com-javascript-2ed/) — Para quem está no zero: lógica, estruturas de controle e primeiros algoritmos com JavaScript.
-- [Grokking Algorithms, 2nd Edition (Aditya Bhargava, Manning)](https://www.manning.com/books/grokking-algorithms-second-edition) — Edição original em inglês de *Entendendo Algoritmos*, lançada em 2024. 🆕 🇺🇸
-- [Algorithms, 4th Edition (Sedgewick e Wayne)](https://algs4.cs.princeton.edu/home/) — O livro-texto de Princeton, com código Java e o material do curso no Coursera. 🇺🇸
-- [The Algorithm Design Manual (Steven Skiena)](https://www.algorist.com/) — Foco em *como* projetar algoritmos na prática, com um catálogo de problemas famoso. 🇺🇸
-- [Algorithms (Jeff Erickson) — gratuito](https://jeffe.cs.illinois.edu/teaching/algorithms/) — Livro-texto completo e gratuito (Creative Commons) da Universidade de Illinois, com centenas de exercícios. 🇺🇸
-- [Open Data Structures (Pat Morin) — gratuito](https://opendatastructures.org/) — Livro aberto sobre estruturas de dados, com edições em Java, C++ e pseudocódigo. 🇺🇸
-- [Competitive Programmer's Handbook (Antti Laaksonen) — gratuito](https://cses.fi/book/book.pdf) — PDF gratuito do autor: o livro de referência para começar em programação competitiva, em C++. 🇺🇸
-- [Competitive Programming 4 (Steven e Felix Halim)](https://cpbook.net/) — O manual mais completo para Maratona/ICPC, com milhares de problemas classificados. 💰 🇺🇸
-- [Cracking the Coding Interview (Gayle Laakmann McDowell)](https://www.crackingthecodinginterview.com/) — 189 questões de entrevista com soluções, e o processo das big techs explicado. 💰 🇺🇸
-- [Elements of Programming Interviews (Aziz, Lee e Prakash)](https://elementsofprogramminginterviews.com/) — Coleção mais difícil que o CtCI, com versões em Python, Java e C++. 💰 🇺🇸
+- [Grokking Algorithms, 2nd Edition (Aditya Bhargava, Manning)](https://www.manning.com/books/grokking-algorithms-second-edition) — Edição original em inglês de *Entendendo Algoritmos*.
+- [Algorithms, 4th Edition (Sedgewick e Wayne)](https://algs4.cs.princeton.edu/home/) — O livro-texto de Princeton, com código Java e o material do curso no Coursera.
+- [The Algorithm Design Manual (Steven Skiena)](https://www.algorist.com/) — Foco em *como* projetar algoritmos na prática, com um catálogo de problemas famoso.
+- [Algorithms (Jeff Erickson) — gratuito](https://jeffe.cs.illinois.edu/teaching/algorithms/) — Livro-texto completo e gratuito (Creative Commons) da Universidade de Illinois, com centenas de exercícios.
+- [Open Data Structures (Pat Morin) — gratuito](https://opendatastructures.org/) — Livro aberto sobre estruturas de dados, com edições em Java, C++ e pseudocódigo.
+- [Competitive Programmer's Handbook (Antti Laaksonen) — gratuito](https://cses.fi/book/book.pdf) — PDF gratuito do autor: o livro de referência para começar em programação competitiva, em C++.
+- [Competitive Programming 4 (Steven e Felix Halim)](https://cpbook.net/) — Livro pago; o manual mais completo para Maratona/ICPC, com milhares de problemas classificados.
+- [Cracking the Coding Interview (Gayle Laakmann McDowell)](https://www.crackingthecodinginterview.com/) — Livro pago com 189 questões de entrevista com soluções, e o processo das big techs explicado.
+- [Elements of Programming Interviews (Aziz, Lee e Prakash)](https://elementsofprogramminginterviews.com/) — Livro pago; coleção mais difícil que o CtCI, com versões em Python, Java e C++.
 
-## 🎥 Canais no YouTube
-### Em português
+## 🎥 Canais no Youtube
+
+> Em português
+
 - [Curso em Vídeo](https://www.youtube.com/@CursoemVideo) — Canal do Gustavo Guanabara; o curso de Algoritmos é a porta de entrada de milhões de brasileiros.
 - [Programação Dinâmica](https://www.youtube.com/@pgdinamica) — Kizzy Terra e Hallison Paz explicam algoritmos, estruturas e matemática com clareza rara.
 - [Loiane Groner](https://www.youtube.com/@loianegroner) — Autora do livro de estruturas em JavaScript; cursos completos e gratuitos em Java.
@@ -187,104 +232,94 @@ Numa lista de 1 milhão de itens ordenados, a busca linear faz até 1.000.000 co
 - [Big O Notation fácil de entender! (Attekita Dev)](https://www.youtube.com/watch?v=FR44uWofQ7o) — Complexidade de tempo e espaço explicada em 15 minutos, com exemplos de código.
 - [Big O Notation — explicação para entrevistas (Augusto Galego)](https://www.youtube.com/watch?v=g-hIXvdDeZk) — Como falar de complexidade numa entrevista técnica, por quem já entrevistou em big tech.
 
-### Em inglês
-- [Abdul Bari — Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) — Playlist de 80+ aulas de quadro-negro cobrindo um curso universitário inteiro de algoritmos. 🇺🇸
-- [mycodeschool — Data structures](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) — A playlist clássica de estruturas de dados em C/C++, ainda a mais clara para listas, pilhas e árvores. 🇺🇸
-- [WilliamFiset — Data structures playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu) — Estruturas avançadas (Fenwick, union-find, heaps indexados) com código no GitHub. 🇺🇸
-- [NeetCode](https://www.youtube.com/@NeetCode) — Soluções curtas e visuais para os problemas de entrevista mais comuns. 🇺🇸
-- [NeetCode — Leetcode BLIND-75 Solutions](https://www.youtube.com/playlist?list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf) — As 75 questões mais cobradas em entrevista, resolvidas uma a uma. 🇺🇸
-- [MIT OpenCourseWare](https://www.youtube.com/@mitocw) — Canal oficial com 6.006, 6.046 e 6.042 completos. 🇺🇸
-- [Errichto Algorithms](https://www.youtube.com/@Errichto) — Um dos maiores competidores do mundo ensinando técnicas e resolvendo contests ao vivo. 🇺🇸
-- [Reducible](https://www.youtube.com/@Reducible) — Animações no estilo 3Blue1Brown para algoritmos: FFT, DP, grafos e mais. 🇺🇸
-- [Back To Back SWE](https://www.youtube.com/@BackToBackSWE) — Explicações longas e cuidadosas de problemas de entrevista, com intuição antes do código. 🇺🇸
-- [Colin Galen](https://www.youtube.com/@ColinGalen) — Como pensar em programação competitiva: mentalidade, treino e resolução de problemas. 🇺🇸
-- [Tushar Roy — Coding Made Simple](https://www.youtube.com/@tusharroy2525) — Programação dinâmica e grafos explicados com tabelas desenhadas passo a passo. 🇺🇸
+> Em inglês
 
-## 🎙️ Podcasts
-- [Hipsters Ponto Tech #186 — Algoritmos e estrutura de dados](https://www.hipsters.tech/algoritmos-e-estrutura-de-dados-hipsters-186/) — Episódio com engenheiros de Amazon e outras empresas: precisa mesmo saber algoritmos para trabalhar com programação?
-- [Fronteiras da Engenharia de Software](https://fronteirases.github.io/) — Podcast brasileiro que traz pesquisadores para falar de engenharia de software em linguagem acessível.
-- [ADSP: The Podcast (Algorithms + Data Structures = Programs)](https://adspthepodcast.com/) — Conor Hoekstra e Bryce Lelbach conversam semanalmente sobre algoritmos, linguagens e bibliotecas. 🇺🇸
-- [Lex Fridman Podcast — Donald Knuth](https://lexfridman.com/donald-knuth/) — Conversa com o autor de *The Art of Computer Programming* sobre algoritmos, TeX e a vida. 🇺🇸
-- [CoRecursive](https://corecursive.com/) — Histórias de bastidores de software, várias sobre algoritmos e estruturas que mudaram a indústria. 🇺🇸
-
-## 📰 Sites, blogs e newsletters
-- [Meus cursos gratuitos favoritos para aprender estruturas de dados e algoritmos a fundo (freeCodeCamp PT)](https://www.freecodecamp.org/portuguese/news/meus-cursos-gratuitos-favoritos-para-aprender-estruturas-de-dados-e-algoritmos-a-fundo/) — Artigo em português comparando os melhores cursos abertos de DSA.
-- [Notação Big O explicada com exemplos (freeCodeCamp PT)](https://www.freecodecamp.org/portuguese/news/notacao-big-o-explicada-com-exemplos/) — O(1), O(n), O(log n) e O(n²) com exemplos de código, em português.
-- [freeCodeCamp PT — tag Algoritmos](https://www.freecodecamp.org/portuguese/news/tag/algoritmos/) — Todos os artigos traduzidos do freeCodeCamp sobre algoritmos.
-- [O que são estruturas de dados? (Alura)](https://www.alura.com.br/artigos/estruturas-de-dados-introducao) — Introdução em português a estruturas e algoritmos, com exemplos do dia a dia.
-- [NOIC — Informática](https://noic.com.br/informatica/) — Notícias, materiais e simulados para a Olimpíada Brasileira de Informática.
-- [Code Marathon — Como estudar para a Maratona de Programação](https://www.codemarathon.com.br/conteudos/introducao/como-estudar-para-maratona-de-programacao) — Site brasileiro com trilha de estudo e conteúdos para a Maratona SBC.
-- [interviewing.io — Blog](https://interviewing.io/blog) — Dados reais de milhares de entrevistas técnicas: o que funciona e o que não funciona. 🇺🇸
-- [Hello Interview — Data Structures and Algorithms](https://www.hellointerview.com/learn/code) — Guia de DSA para entrevistas escrito por ex-entrevistadores de Meta e Amazon. 🆕 🇺🇸
-- [DEV Community — tag #algorithms](https://dev.to/t/algorithms) — Artigos da comunidade sobre algoritmos, muitos em português. 🇺🇸
-- [Lista de algoritmos (Wikipedia)](https://en.wikipedia.org/wiki/List_of_algorithms) — Catálogo enciclopédico por área — para descobrir que o algoritmo que você precisa já existe. 🇺🇸
+- [Abdul Bari — Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) — Playlist de 80+ aulas de quadro-negro cobrindo um curso universitário inteiro de algoritmos.
+- [mycodeschool — Data structures](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) — A playlist clássica de estruturas de dados em C/C++, ainda a mais clara para listas, pilhas e árvores.
+- [WilliamFiset — Data structures playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu) — Estruturas avançadas (Fenwick, union-find, heaps indexados) com código no GitHub.
+- [NeetCode](https://www.youtube.com/@NeetCode) — Soluções curtas e visuais para os problemas de entrevista mais comuns.
+- [NeetCode — Leetcode BLIND-75 Solutions](https://www.youtube.com/playlist?list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf) — As 75 questões mais cobradas em entrevista, resolvidas uma a uma.
+- [MIT OpenCourseWare](https://www.youtube.com/@mitocw) — Canal oficial com 6.006, 6.046 e 6.042 completos.
+- [Errichto Algorithms](https://www.youtube.com/@Errichto) — Um dos maiores competidores do mundo ensinando técnicas e resolvendo contests ao vivo.
+- [Reducible](https://www.youtube.com/@Reducible) — Animações no estilo 3Blue1Brown para algoritmos: FFT, DP, grafos e mais.
+- [Back To Back SWE](https://www.youtube.com/@BackToBackSWE) — Explicações longas e cuidadosas de problemas de entrevista, com intuição antes do código.
+- [Colin Galen](https://www.youtube.com/@ColinGalen) — Como pensar em programação competitiva: mentalidade, treino e resolução de problemas.
+- [Tushar Roy — Coding Made Simple](https://www.youtube.com/@tusharroy2525) — Programação dinâmica e grafos explicados com tabelas desenhadas passo a passo.
 
 ## 🛠️ Ferramentas
-- [Visual Studio Code](https://code.visualstudio.com/) — Editor gratuito com depurador para C, C++, Python, Java e JavaScript — depurar passo a passo é a melhor forma de entender um algoritmo. 🇺🇸
-- [Competitive Programming Helper (cph) — extensão do VS Code](https://github.com/agrawal-d/cph) — Roda os casos de teste do problema com um clique e importa problemas de juízes online. 🇺🇸
-- [LeetCode — extensão do VS Code](https://github.com/LeetCode-OpenSource/vscode-leetcode) — Resolva e submeta problemas do LeetCode sem sair do editor. 🇺🇸
-- [Compiler Explorer (godbolt)](https://godbolt.org/) — Veja o assembly gerado pelo compilador e entenda por que uma implementação é mais rápida que outra. 🇺🇸
-- [OnlineGDB](https://www.onlinegdb.com/) — Compilador e depurador online para C/C++, Python, Java e outras; útil para testar sem instalar nada. 🇺🇸
-- [Python Tutor](https://pythontutor.com/) — Executa seu código passo a passo mostrando a memória: ponteiros, pilha de chamadas e recursão ficam visíveis. 🇺🇸
-- [AtCoder Library (ACL)](https://github.com/atcoder/ac-library) — Biblioteca oficial do AtCoder em C++ com estruturas prontas: segment tree, DSU, fluxo, strings. 🇺🇸
-- [online-judge-tools (oj)](https://github.com/online-judge-tools/oj) — CLI que baixa casos de teste, gera casos aleatórios e testa sua solução contra um brute force. 🇺🇸
-- [Hypothesis (Python)](https://hypothesis.readthedocs.io/en/latest/) — Testes baseados em propriedades: gera milhares de entradas para achar o caso em que seu algoritmo quebra. 🇺🇸
-- [fast-check (JavaScript/TypeScript)](https://fast-check.dev/) — Equivalente do Hypothesis para JS/TS. 🇺🇸
-- [CLion (JetBrains)](https://www.jetbrains.com/clion/) — IDE para C/C++ com depurador visual excelente; gratuito para estudantes. 💰 🇺🇸
+
+- [Visual Studio Code](https://code.visualstudio.com/) — Editor gratuito com depurador para C, C++, Python, Java e JavaScript — depurar passo a passo é a melhor forma de entender um algoritmo.
+- [Competitive Programming Helper (cph) — extensão do VS Code](https://github.com/agrawal-d/cph) — Roda os casos de teste do problema com um clique e importa problemas de juízes online.
+- [LeetCode — extensão do VS Code](https://github.com/LeetCode-OpenSource/vscode-leetcode) — Resolva e submeta problemas do LeetCode sem sair do editor.
+- [Compiler Explorer (godbolt)](https://godbolt.org/) — Veja o assembly gerado pelo compilador e entenda por que uma implementação é mais rápida que outra.
+- [OnlineGDB](https://www.onlinegdb.com/) — Compilador e depurador online para C/C++, Python, Java e outras; útil para testar sem instalar nada.
+- [Python Tutor](https://pythontutor.com/) — Executa seu código passo a passo mostrando a memória: ponteiros, pilha de chamadas e recursão ficam visíveis.
+- [AtCoder Library (ACL)](https://github.com/atcoder/ac-library) — Biblioteca oficial do AtCoder em C++ com estruturas prontas: segment tree, DSU, fluxo, strings.
+- [online-judge-tools (oj)](https://github.com/online-judge-tools/oj) — CLI que baixa casos de teste, gera casos aleatórios e testa sua solução contra um brute force.
+- [Hypothesis (Python)](https://hypothesis.readthedocs.io/en/latest/) — Testes baseados em propriedades: gera milhares de entradas para achar o caso em que seu algoritmo quebra.
+- [fast-check (JavaScript/TypeScript)](https://fast-check.dev/) — Equivalente do Hypothesis para JS/TS.
+- [CLion (JetBrains)](https://www.jetbrains.com/clion/) — IDE para C/C++ com depurador visual excelente; pago, gratuito para estudantes.
 
 ## 🧪 Projetos práticos e desafios
+
 Resolver problemas é a única forma de aprender algoritmos de verdade. Comece pelos juízes com problemas fáceis e por tópico; depois, implemente estruturas do zero e compare com os repositórios de referência.
-- [HackerRank — Data Structures](https://www.hackerrank.com/domains/data-structures) — Problemas por estrutura (arrays, listas, árvores, heaps, tries) com dificuldade progressiva. 🇺🇸
-- [HackerRank — Algorithms](https://www.hackerrank.com/domains/algorithms) — Trilha de algoritmos: ordenação, busca, greedy, DP e grafos. 🇺🇸
-- [CSES Problem Set](https://cses.fi/problemset/) — 300 problemas clássicos organizados por tópico — o melhor conjunto para treinar de forma estruturada. 🇺🇸
-- [AtCoder](https://atcoder.jp/) — Juiz japonês com contests semanais para iniciantes (ABC) e problemas de altíssima qualidade. 🇺🇸
-- [Kattis](https://open.kattis.com/) — Milhares de problemas de competições reais, muitos usados na Maratona e no ICPC. 🇺🇸
-- [HackerEarth — Practice](https://www.hackerearth.com/practice/) — Trilhas de prática por tópico com tutoriais antes dos problemas. 🇺🇸
-- [Codewars](https://www.codewars.com/) — Katas em dezenas de linguagens; compare sua solução com as mais votadas depois de resolver. 🇺🇸
-- [CodeChef](https://www.codechef.com/) — Contests mensais e trilhas de prática, do iniciante ao avançado. 🇺🇸
-- [Project Euler](https://projecteuler.net/) — Problemas matemáticos que só saem com algoritmo eficiente — ótimo para treinar complexidade. 🇺🇸
-- [Advent of Code](https://adventofcode.com/) — Calendário de dezembro com 25 quebra-cabeças que exigem parsing, grafos, DP e simulação; edição 2025 no ar. 🆕 🇺🇸
-- [CodinGame](https://www.codingame.com/start/) — Aprenda algoritmos programando bots e jogos, com ranking e desafios multiplayer. 🇺🇸
-- [Rosalind](https://rosalind.info/problems/locations/) — Problemas de algoritmos aplicados à bioinformática — strings e grafos com propósito. 🇺🇸
-- [The Algorithms](https://the-algorithms.com/) — Implementações abertas de centenas de algoritmos em todas as linguagens populares. 🇺🇸
-- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) — O repositório mais estrelado de algoritmos em Python; leia, compare e contribua. 🇺🇸
-- [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) — Mesma coleção em JavaScript, com boas práticas e testes. 🇺🇸
-- [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) — Mesma coleção em Java. 🇺🇸
-- [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) — Mesma coleção em C++. 🇺🇸
+
+- [HackerRank — Data Structures](https://www.hackerrank.com/domains/data-structures) — Problemas por estrutura (arrays, listas, árvores, heaps, tries) com dificuldade progressiva.
+- [HackerRank — Algorithms](https://www.hackerrank.com/domains/algorithms) — Trilha de algoritmos: ordenação, busca, greedy, DP e grafos.
+- [CSES Problem Set](https://cses.fi/problemset/) — 300 problemas clássicos organizados por tópico — o melhor conjunto para treinar de forma estruturada.
+- [AtCoder](https://atcoder.jp/) — Juiz japonês com contests semanais para iniciantes (ABC) e problemas de altíssima qualidade.
+- [Kattis](https://open.kattis.com/) — Milhares de problemas de competições reais, muitos usados na Maratona e no ICPC.
+- [HackerEarth — Practice](https://www.hackerearth.com/practice/) — Trilhas de prática por tópico com tutoriais antes dos problemas.
+- [Codewars](https://www.codewars.com/) — Katas em dezenas de linguagens; compare sua solução com as mais votadas depois de resolver.
+- [CodeChef](https://www.codechef.com/) — Contests mensais e trilhas de prática, do iniciante ao avançado.
+- [Project Euler](https://projecteuler.net/) — Problemas matemáticos que só saem com algoritmo eficiente — ótimo para treinar complexidade.
+- [Advent of Code](https://adventofcode.com/) — Calendário de dezembro com 25 quebra-cabeças que exigem parsing, grafos, DP e simulação.
+- [CodinGame](https://www.codingame.com/start/) — Aprenda algoritmos programando bots e jogos, com ranking e desafios multiplayer.
+- [Rosalind](https://rosalind.info/problems/locations/) — Problemas de algoritmos aplicados à bioinformática — strings e grafos com propósito.
+- [The Algorithms](https://the-algorithms.com/) — Implementações abertas de centenas de algoritmos em todas as linguagens populares.
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) — O repositório mais estrelado de algoritmos em Python; leia, compare e contribua.
+- [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) — Mesma coleção em JavaScript, com boas práticas e testes.
+- [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) — Mesma coleção em Java.
+- [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) — Mesma coleção em C++.
 - [javascript-algorithms (README em PT-BR)](https://github.com/trekhleb/javascript-algorithms/blob/master/README.pt-BR.md) — Algoritmos e estruturas em JavaScript com explicações e links para aprofundar, traduzido.
-- [interactive-coding-challenges (donnemartin)](https://github.com/donnemartin/interactive-coding-challenges) — 120+ desafios de entrevista em Jupyter Notebooks com testes unitários e soluções. 🇺🇸
-- [williamfiset/Algorithms](https://github.com/williamfiset/Algorithms) — Implementações em Java de tudo que aparece nos vídeos do William Fiset. 🇺🇸
-- [Build your own X](https://github.com/codecrafters-io/build-your-own-x) — Reconstrua um banco de dados, um compilador ou um Git do zero — algoritmos e estruturas na vida real. 🇺🇸
+- [interactive-coding-challenges (donnemartin)](https://github.com/donnemartin/interactive-coding-challenges) — 120+ desafios de entrevista em Jupyter Notebooks com testes unitários e soluções.
+- [williamfiset/Algorithms](https://github.com/williamfiset/Algorithms) — Implementações em Java de tudo que aparece nos vídeos do William Fiset.
+- [Build your own X](https://github.com/codecrafters-io/build-your-own-x) — Reconstrua um banco de dados, um compilador ou um Git do zero — algoritmos e estruturas na vida real.
 
 > Plataformas muito usadas que **não** estão linkadas aqui porque bloqueiam verificadores automáticos de links (não conseguimos confirmar a página): LeetCode, Codeforces (site principal), Beecrowd (antigo URI Online Judge) e SPOJ. Procure-as pelo nome — todas continuam ativas.
 
 ## 🏆 Programação competitiva
+
 Programação competitiva é resolver problemas algorítmicos contra o relógio. No Brasil, o caminho é a **OBI** (escolas) e a **Maratona SBC de Programação** (universidades), que classifica para o ICPC mundial. Mesmo sem competir, treinar nesse formato é a preparação mais eficiente para entrevistas técnicas.
-- [OBI — Olimpíada Brasileira de Informática](https://olimpiada.ic.unicamp.br/) — Olimpíada oficial para alunos do ensino fundamental, médio e universitário, organizada pela SBC e pela UNICAMP. 🆕
+
+- [OBI — Olimpíada Brasileira de Informática](https://olimpiada.ic.unicamp.br/) — Olimpíada oficial para alunos do ensino fundamental, médio e universitário, organizada pela SBC e pela UNICAMP.
 - [OBI — provas de anos anteriores](https://olimpiada.ic.unicamp.br/passadas/) — Todas as provas passadas com gabarito — a melhor forma de treinar para a OBI.
-- [Maratona SBC de Programação](https://maratona.sbc.org.br/) — A competição universitária brasileira, classificatória para o ICPC; regras, datas e sedes. 🆕
+- [Maratona SBC de Programação](https://maratona.sbc.org.br/) — A competição universitária brasileira, classificatória para o ICPC; regras, datas e sedes.
 - [Maratona SBC — histórico e provas](https://maratona.sbc.org.br/hist/) — Provas e resultados de edições anteriores da Maratona.
-- [ICPC — International Collegiate Programming Contest](https://icpc.global/) — A final mundial para onde os melhores times da Maratona vão. 🇺🇸
+- [ICPC — International Collegiate Programming Contest](https://icpc.global/) — A final mundial para onde os melhores times da Maratona vão.
 - [Neps Academy — trilhas de competição](https://neps.academy/br) — Cursos gratuitos de técnicas de programação, grafos, matemática e estruturas, com problemas da OBI.
 - [Clube de Programação UPF — vídeo-oficinas](https://maratonaupf.github.io/videos/introducao-programacao-competitiva) — Oficinas em vídeo da Universidade de Passo Fundo para quem quer começar a competir.
 - [Livreto FACOMpetindo (repositório)](https://github.com/FACOMpetindo/livreto) — Código e exercícios em Python e C++ que acompanham o livreto da UFMS.
-- [Codeforces EDU](https://codeforces.com/edu/courses) — Cursos da ITMO Academy dentro do Codeforces, com problemas para praticar cada técnica. 🇺🇸
-- [USACO Guide](https://usaco.guide/) — Trilha completa e gratuita, do Bronze ao Platinum, com problemas resolvidos e teoria. 🇺🇸
-- [cp-algorithms](https://cp-algorithms.com/) — A referência técnica de cada algoritmo usado em competições. 🇺🇸
-- [Competitive Programmer's Handbook (PDF gratuito)](https://cses.fi/book/book.pdf) — O livro para começar, do criador do CSES. 🇺🇸
-- [How to test your solution in Competitive Programming (Errichto)](https://www.youtube.com/watch?v=JXTVOyQpSGM) — Como montar um *stress test* comparando sua solução com um brute force em entradas aleatórias. 🇺🇸
+- [Codeforces EDU](https://codeforces.com/edu/courses) — Cursos da ITMO Academy dentro do Codeforces, com problemas para praticar cada técnica.
+- [USACO Guide](https://usaco.guide/) — Trilha completa e gratuita, do Bronze ao Platinum, com problemas resolvidos e teoria.
+- [cp-algorithms](https://cp-algorithms.com/) — A referência técnica de cada algoritmo usado em competições.
+- [Competitive Programmer's Handbook (PDF gratuito)](https://cses.fi/book/book.pdf) — O livro para começar, do criador do CSES.
+- [How to test your solution in Competitive Programming (Errichto)](https://www.youtube.com/watch?v=JXTVOyQpSGM) — Como montar um *stress test* comparando sua solução com um brute force em entradas aleatórias.
 
 ## 👁️ Visualizadores
+
 Ver uma árvore se rebalancear ou um Dijkstra expandir nós vale mais que dez páginas de texto. Use os visualizadores enquanto estuda cada estrutura.
-- [VisuAlgo](https://visualgo.net/en) — Animações de dezenas de estruturas e algoritmos (ordenação, BST, heap, grafos, DP), com modo de treino. 🇺🇸
-- [Data Structure Visualization (David Galles, USF)](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) — Visualizador clássico: insira valores e veja árvores AVL, B-trees, heaps e hashing se reorganizarem. 🇺🇸
-- [Python Tutor](https://pythontutor.com/) — Visualize a execução do seu próprio código, incluindo recursão e ponteiros, em Python, C, C++, Java e JavaScript. 🇺🇸
-- [Pathfinding Visualizer](https://clementmihailescu.github.io/Pathfinding-Visualizer/) — Desenhe paredes num grid e compare Dijkstra, A*, BFS e DFS achando o caminho. 🇺🇸
-- [Introduction to the A* Algorithm (Red Blob Games)](https://www.redblobgames.com/pathfinding/a-star/introduction.html) — O melhor artigo interativo sobre busca de caminhos: BFS → Dijkstra → A* com diagramas manipuláveis. 🇺🇸
-- [CS Academy — Graph Editor](https://csacademy.com/app/graph_editor/) — Cole a lista de arestas de um problema e veja o grafo desenhado na hora. 🇺🇸
-- [HackerEarth — visualizador de ordenação](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/visualize/) — Animação passo a passo dos algoritmos de ordenação, com o código ao lado. 🇺🇸
+
+- [VisuAlgo](https://visualgo.net/en) — Animações de dezenas de estruturas e algoritmos (ordenação, BST, heap, grafos, DP), com modo de treino.
+- [Data Structure Visualization (David Galles, USF)](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) — Visualizador clássico: insira valores e veja árvores AVL, B-trees, heaps e hashing se reorganizarem.
+- [Python Tutor](https://pythontutor.com/) — Visualize a execução do seu próprio código, incluindo recursão e ponteiros, em Python, C, C++, Java e JavaScript.
+- [Pathfinding Visualizer](https://clementmihailescu.github.io/Pathfinding-Visualizer/) — Desenhe paredes num grid e compare Dijkstra, A*, BFS e DFS achando o caminho.
+- [Introduction to the A* Algorithm (Red Blob Games)](https://www.redblobgames.com/pathfinding/a-star/introduction.html) — O melhor artigo interativo sobre busca de caminhos: BFS → Dijkstra → A* com diagramas manipuláveis.
+- [CS Academy — Graph Editor](https://csacademy.com/app/graph_editor/) — Cole a lista de arestas de um problema e veja o grafo desenhado na hora.
+- [HackerEarth — visualizador de ordenação](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/visualize/) — Animação passo a passo dos algoritmos de ordenação, com o código ao lado.
 
 ## 🤖 IA na prática
+
 Assistentes de IA são ótimos professores particulares de algoritmos — e péssimos substitutos para o seu próprio raciocínio. A regra: **a IA explica, você implementa; a IA sugere, o juiz online decide.**
 
 **Para aprender**
@@ -295,7 +330,7 @@ Assistentes de IA são ótimos professores particulares de algoritmos — e pés
 - Use a IA como gerador de exercícios: *"cinco problemas de dois ponteiros, do fácil ao difícil, sem solução; só me dê a dica se eu pedir"*.
 
 **Para trabalhar e treinar**
-- Use [GitHub Copilot](https://github.com/features/copilot), [Cursor](https://cursor.com/) ou [Claude Code](https://code.claude.com/docs/en/overview) para escrever **geradores de casos de teste** e *stress tests*: uma solução ingenua O(n²) como oráculo, milhares de entradas aleatórias, compare as saídas. É exatamente o que o [vídeo do Errichto](https://www.youtube.com/watch?v=JXTVOyQpSGM) ensina — a IA só tira o trabalho braçal.
+- Use [GitHub Copilot](https://github.com/features/copilot), [Cursor](https://cursor.com/) ou [Claude Code](https://code.claude.com/docs/en/overview) para escrever **geradores de casos de teste** e *stress tests*: uma solução ingênua O(n²) como oráculo, milhares de entradas aleatórias, compare as saídas. É exatamente o que o [vídeo do Errichto](https://www.youtube.com/watch?v=JXTVOyQpSGM) ensina — a IA só tira o trabalho braçal.
 - Peça testes baseados em propriedades com [Hypothesis](https://hypothesis.readthedocs.io/en/latest/) (Python) ou [fast-check](https://fast-check.dev/) (JS/TS): "para qualquer lista, a saída da minha ordenação é uma permutação ordenada da entrada".
 - Em código de produção, peça à IA para identificar **estruturas erradas para o acesso** (lista onde deveria ser conjunto, busca linear dentro de laço) — é o bug de desempenho mais comum e o mais fácil de ela achar.
 
@@ -307,42 +342,46 @@ Assistentes de IA são ótimos professores particulares de algoritmos — e pés
 - Não cole código proprietário, dados de clientes ou provas de processo seletivo em ferramentas sem a política da empresa.
 
 **Ferramentas e leituras**
-- [GitHub Copilot](https://github.com/features/copilot) — Autocomplete e chat no editor; gratuito para estudantes e com plano free. 🆕 🇺🇸
-- [Cursor](https://cursor.com/) — Editor baseado no VS Code com IA integrada ao fluxo de trabalho. 🆕 🇺🇸
-- [Claude Code](https://code.claude.com/docs/en/overview) — Agente de código no terminal: explica complexidade, gera testes e refatora implementações. 🆕 🇺🇸
-- [Claude](https://claude.com/product/overview) — Assistente da Anthropic; bom para pedir explicações passo a passo e provas de corretude. 🆕 🇺🇸
-- [Competitive Programming with Large Reasoning Models (OpenAI, arXiv 2025)](https://arxiv.org/abs/2502.06807) — Artigo que mostra modelos de raciocínio atingindo nível de ouro em competições — leia para entender o que a IA já resolve. 🆕 🇺🇸
-- [LiveCodeBench](https://livecodebench.github.io/) — Benchmark que avalia LLMs em problemas novos de LeetCode, AtCoder e Codeforces, sem contaminação. 🆕 🇺🇸
-- [AlphaCode 2 — relatório técnico (Google DeepMind)](https://storage.googleapis.com/deepmind-media/AlphaCode2/AlphaCode2_Tech_Report.pdf) — Como o DeepMind fez um sistema de IA competir no Codeforces: geração massiva + filtragem por testes. 🇺🇸
+- [GitHub Copilot](https://github.com/features/copilot) — Autocomplete e chat no editor; gratuito para estudantes e com plano free.
+- [Cursor](https://cursor.com/) — Editor baseado no VS Code com IA integrada ao fluxo de trabalho.
+- [Claude Code](https://code.claude.com/docs/en/overview) — Agente de código no terminal: explica complexidade, gera testes e refatora implementações.
+- [Claude](https://claude.com/product/overview) — Assistente da Anthropic; bom para pedir explicações passo a passo e provas de corretude.
+- [Competitive Programming with Large Reasoning Models (OpenAI, arXiv 2025)](https://arxiv.org/abs/2502.06807) — Artigo que mostra modelos de raciocínio atingindo nível de ouro em competições — leia para entender o que a IA já resolve.
+- [LiveCodeBench](https://livecodebench.github.io/) — Benchmark que avalia LLMs em problemas novos de LeetCode, AtCoder e Codeforces, sem contaminação.
+- [AlphaCode 2 — relatório técnico (Google DeepMind)](https://storage.googleapis.com/deepmind-media/AlphaCode2/AlphaCode2_Tech_Report.pdf) — Como o DeepMind fez um sistema de IA competir no Codeforces: geração massiva + filtragem por testes.
 
-## 📜 Certificações
+## 🎓 Certificações
+
 Não existe certificação oficial de Algoritmos e Estruturas de Dados — nem de uma empresa, nem de uma entidade da área. O que o mercado reconhece é **desempenho em entrevista técnica**, **medalhas e classificações** (OBI, Maratona SBC, ratings de Codeforces/AtCoder) e **projetos publicados**. Os certificados abaixo são de conclusão de curso ou de teste de habilidade: ajudam no currículo, mas não substituem prática.
-- [JavaScript Algorithms and Data Structures Certification (freeCodeCamp)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8) — Certificação gratuita e reconhecida: centenas de exercícios e 5 projetos de algoritmos em JavaScript. 🇺🇸
-- [HackerRank Skills Certification — Problem Solving (Basic)](https://www.hackerrank.com/skills-verification/problem_solving_basic) — Teste cronometrado gratuito de estruturas de dados e algoritmos; o certificado vai para o seu perfil. 🇺🇸
-- [HackerRank Skills Certification — Problem Solving (Intermediate)](https://www.hackerrank.com/skills-verification/problem_solving_intermediate) — Nível intermediário do mesmo teste. 🇺🇸
+
+- [JavaScript Algorithms and Data Structures Certification (freeCodeCamp)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8) — Certificação gratuita e reconhecida: centenas de exercícios e 5 projetos de algoritmos em JavaScript.
+- [HackerRank Skills Certification — Problem Solving (Basic)](https://www.hackerrank.com/skills-verification/problem_solving_basic) — Teste cronometrado gratuito de estruturas de dados e algoritmos; o certificado vai para o seu perfil.
+- [HackerRank Skills Certification — Problem Solving (Intermediate)](https://www.hackerrank.com/skills-verification/problem_solving_intermediate) — Nível intermediário do mesmo teste.
 - [Curso Estrutura de Dados e Algoritmos Java (Loiane) — com certificado](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBrgumpzz-l8kFMw2DLERdxi) — Curso gratuito em português que emite certificado de conclusão.
 - [Aprenda Estrutura de Dados e Algoritmos (DIO) — com certificado](https://www.dio.me/courses/aprenda-o-que-sao-estrutura-de-dados-e-algoritmos) — Certificado gratuito de conclusão.
-- [Algorithms, Part I (Princeton — Coursera) — certificado](https://www.coursera.org/learn/algorithms-part1) — Assistir é gratuito; o certificado de Princeton é pago. 💰 🇺🇸
-- [Data Structures and Algorithms Specialization (UC San Diego — Coursera) — certificado](https://www.coursera.org/specializations/data-structures-algorithms) — Certificado pago da especialização com juiz automático. 💰 🇺🇸
+- [Algorithms, Part I (Princeton — Coursera) — certificado](https://www.coursera.org/learn/algorithms-part1) — Assistir é gratuito; o certificado de Princeton é pago.
+- [Data Structures and Algorithms Specialization (UC San Diego — Coursera) — certificado](https://www.coursera.org/specializations/data-structures-algorithms) — Certificado pago da especialização com juiz automático.
 
 ## 💼 Carreira e vagas
+
 Algoritmos e estruturas de dados são o critério principal das entrevistas em Google, Amazon, Meta, Microsoft, Nubank, iFood, Mercado Livre e da maioria das startups que pagam em dólar — quase sempre no formato *coding interview*: 45 minutos, 1–2 problemas, complexidade explicada em voz alta. Também aparecem nos testes das plataformas brasileiras de recrutamento. No Brasil, a Pesquisa Código Fonte TV traz as faixas salariais por nível; para big techs com escritório no país, o Levels.fyi é a referência.
-- [Tech Interview Handbook](https://www.techinterviewhandbook.org/) — Guia completo e gratuito de entrevistas técnicas: currículo, algoritmos, comportamental e negociação. 🇺🇸
-- [Grind 75](https://www.techinterviewhandbook.org/grind75/) — Lista de problemas personalizável por semanas disponíveis e horas por semana, do autor do Blind 75. 🇺🇸
-- [Blind 75 (Best practice questions)](https://www.techinterviewhandbook.org/best-practice-questions/) — As 75 questões que cobrem os padrões mais cobrados em entrevistas. 🇺🇸
-- [NeetCode 150](https://neetcode.io/practice) — Lista organizada por tópico, com vídeo-solução para cada problema. 🇺🇸
-- [Coding Interview University](https://github.com/jwasham/coding-interview-university) — O plano de estudos de CS mais popular do GitHub para entrevistas em big techs. 🇺🇸
-- [kdn251/interviews](https://github.com/kdn251/interviews) — Tudo o que você precisa saber para a entrevista: algoritmos, estruturas, Big-O e links por empresa. 🇺🇸
-- [A Senior Engineer's Guide to FAANG Interviews (interviewing.io)](https://interviewing.io/guides/hiring-process) — Como funciona o processo de Google, Meta, Amazon e afins, etapa por etapa. 🇺🇸
-- [Google Careers — Our hiring process](https://www.google.com/about/careers/applications/how-we-hire/) — Página oficial do Google explicando as etapas, incluindo as entrevistas de código. 🇺🇸
-- [Google Careers — Build your future: resources](https://www.google.com/about/careers/applications/buildyourfuture/resources/) — Materiais oficiais de preparação técnica recomendados pelo Google. 🇺🇸
-- [Amazon — Software Development Interview Topics](https://www.amazon.jobs/content/en/how-we-hire/interview-prep/software-development-topics) — A lista oficial de tópicos que a Amazon cobra: estruturas de dados, algoritmos, complexidade e design. 🇺🇸
-- [interviewing.io](https://interviewing.io/) — Entrevistas simuladas anônimas com engenheiros de big techs; gratuito para praticar como entrevistado em alguns formatos. 🇺🇸
-- [Pramp](https://www.pramp.com/) — Entrevistas simuladas gratuitas entre pares: você entrevista e é entrevistado. 🇺🇸
-- [Pesquisa Salarial de Programadores 2026 (Código Fonte TV)](https://pesquisa.codigofonte.com.br/2026) — Maior pesquisa de salários de devs do Brasil, filtrável por nível, linguagem, estado e modelo de contratação. 🆕
+
+- [Tech Interview Handbook](https://www.techinterviewhandbook.org/) — Guia completo e gratuito de entrevistas técnicas: currículo, algoritmos, comportamental e negociação.
+- [Grind 75](https://www.techinterviewhandbook.org/grind75/) — Lista de problemas personalizável por semanas disponíveis e horas por semana, do autor do Blind 75.
+- [Blind 75 (Best practice questions)](https://www.techinterviewhandbook.org/best-practice-questions/) — As 75 questões que cobrem os padrões mais cobrados em entrevistas.
+- [NeetCode 150](https://neetcode.io/practice) — Lista organizada por tópico, com vídeo-solução para cada problema.
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university) — O plano de estudos de CS mais popular do GitHub para entrevistas em big techs.
+- [kdn251/interviews](https://github.com/kdn251/interviews) — Tudo o que você precisa saber para a entrevista: algoritmos, estruturas, Big-O e links por empresa.
+- [A Senior Engineer's Guide to FAANG Interviews (interviewing.io)](https://interviewing.io/guides/hiring-process) — Como funciona o processo de Google, Meta, Amazon e afins, etapa por etapa.
+- [Google Careers — Our hiring process](https://www.google.com/about/careers/applications/how-we-hire/) — Página oficial do Google explicando as etapas, incluindo as entrevistas de código.
+- [Google Careers — Build your future: resources](https://www.google.com/about/careers/applications/buildyourfuture/resources/) — Materiais oficiais de preparação técnica recomendados pelo Google.
+- [Amazon — Software Development Interview Topics](https://www.amazon.jobs/content/en/how-we-hire/interview-prep/software-development-topics) — A lista oficial de tópicos que a Amazon cobra: estruturas de dados, algoritmos, complexidade e design.
+- [interviewing.io](https://interviewing.io/) — Entrevistas simuladas anônimas com engenheiros de big techs; gratuito para praticar como entrevistado em alguns formatos.
+- [Pramp](https://www.pramp.com/) — Entrevistas simuladas gratuitas entre pares: você entrevista e é entrevistado.
+- [Pesquisa Salarial de Programadores 2026 (Código Fonte TV)](https://pesquisa.codigofonte.com.br/2026) — Maior pesquisa de salários de devs do Brasil, filtrável por nível, linguagem, estado e modelo de contratação.
 - [Salario.com.br — Desenvolvedor back-end](https://www.salario.com.br/profissao/desenvolvedor-back-end/) — Piso e média salarial oficiais (CAGED) por cargo e região.
-- [Levels.fyi](https://www.levels.fyi/) — Salários e níveis das big techs, inclusive escritórios no Brasil. 🇺🇸
-- [Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co/2025/) — Panorama global de linguagens, ferramentas e salários. 🆕 🇺🇸
+- [Levels.fyi](https://www.levels.fyi/) — Salários e níveis das big techs, inclusive escritórios no Brasil.
+- [Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co/2025/) — Panorama global de linguagens, ferramentas e salários.
 - [Programathor](https://programathor.com.br/) — Vagas de tecnologia no Brasil filtráveis por linguagem e nível.
 - [GeekHunter](https://www.geekhunter.com/pt) — Plataforma brasileira onde empresas fazem propostas a devs; tem teste técnico de algoritmos.
 - [Coodesh](https://coodesh.com/) — Vagas tech no Brasil com desafios técnicos padronizados.
@@ -351,6 +390,7 @@ Algoritmos e estruturas de dados são o critério principal das entrevistas em G
 - [frontendbr/vagas](https://github.com/frontendbr/vagas) — Vagas de front-end publicadas como issues no GitHub.
 
 ## 👥 Comunidades
+
 - [Neps Academy — comunidade](https://neps.academy/br) — Fórum e ranking da maior plataforma brasileira de programação competitiva.
 - [r/programacao](https://www.reddit.com/r/programacao/) — Subreddit em português sobre programação.
 - [TabNews](https://www.tabnews.com.br/) — Comunidade brasileira de conteúdo técnico criada por Filipe Deschamps.
@@ -358,19 +398,30 @@ Algoritmos e estruturas de dados são o critério principal das entrevistas em G
 - [Desenvolvedores Brasil (Discord)](https://discord.com/invite/t3vYGUuK6P) — Comunidade brasileira com dicas, cursos, mentorias e vagas.
 - [Lista de grupos de tecnologia no Telegram (TI-Brasil)](https://github.com/TI-Brasil/lista-telegram-brasil) — Diretório de grupos brasileiros no Telegram, incluindo programação competitiva e linguagens.
 - [Rocketseat — comunidade](https://www.rocketseat.com.br/) — Uma das maiores comunidades de devs do Brasil, com Discord aberto.
-- [Codeforces Discord](https://discord.com/invite/codeforces) — Servidor da comunidade Codeforces para discutir problemas e contests. 🇺🇸
-- [r/codeforces](https://www.reddit.com/r/codeforces/) — Subreddit sobre contests, ratings e editoriais. 🇺🇸
-- [r/leetcode](https://www.reddit.com/r/leetcode/) — Relatos de entrevistas, listas de estudo e dúvidas sobre problemas. 🇺🇸
-- [r/algorithms](https://www.reddit.com/r/algorithms/) — Discussões teóricas sobre algoritmos e complexidade. 🇺🇸
-- [r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/) — Carreira, entrevistas e negociação em empresas de tecnologia. 🇺🇸
+- [Codeforces Discord](https://discord.com/invite/codeforces) — Servidor da comunidade Codeforces para discutir problemas e contests.
+- [r/codeforces](https://www.reddit.com/r/codeforces/) — Subreddit sobre contests, ratings e editoriais.
+- [r/leetcode](https://www.reddit.com/r/leetcode/) — Relatos de entrevistas, listas de estudo e dúvidas sobre problemas.
+- [r/algorithms](https://www.reddit.com/r/algorithms/) — Discussões teóricas sobre algoritmos e complexidade.
+- [r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/) — Carreira, entrevistas e negociação em empresas de tecnologia.
+
+> Podcasts
+
+- [Hipsters Ponto Tech #186 — Algoritmos e estrutura de dados](https://www.hipsters.tech/algoritmos-e-estrutura-de-dados-hipsters-186/) — Episódio com engenheiros de Amazon e outras empresas: precisa mesmo saber algoritmos para trabalhar com programação?
+- [Fronteiras da Engenharia de Software](https://fronteirases.github.io/) — Podcast brasileiro que traz pesquisadores para falar de engenharia de software em linguagem acessível.
+- [ADSP: The Podcast (Algorithms + Data Structures = Programs)](https://adspthepodcast.com/) — Conor Hoekstra e Bryce Lelbach conversam semanalmente sobre algoritmos, linguagens e bibliotecas.
+- [Lex Fridman Podcast — Donald Knuth](https://lexfridman.com/donald-knuth/) — Conversa com o autor de *The Art of Computer Programming* sobre algoritmos, TeX e a vida.
+- [CoRecursive](https://corecursive.com/) — Histórias de bastidores de software, várias sobre algoritmos e estruturas que mudaram a indústria.
 
 ## 🚨 Como contribuir
+
 Achou um link quebrado, um curso novo ou uma ferramenta que merece estar aqui? Abra uma issue usando os templates do repositório ou envie um pull request. Critérios: link funcionando, conteúdo legal e gratuito ou claramente marcado como pago, com uma linha de descrição. Detalhes em [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ## 📄 Licença
+
 Este projeto está sob a licença [MIT](./LICENSE). Feito com 💙 por [Arthur Coutinho (@arthurspk)](https://github.com/arthurspk) e pela comunidade do [Guia Dev Brasil](https://github.com/arthurspk/guiadevbrasil).
 
 ## 💙 Apoie o projeto
+
 Dê uma ⭐ neste repositório e no [guia principal](https://github.com/arthurspk/guiadevbrasil), compartilhe com quem está começando e siga o projeto nas redes:
 
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">](https://github.com/arthurspk)
